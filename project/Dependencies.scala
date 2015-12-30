@@ -7,7 +7,7 @@ object Dependencies{
     val nettyVersion = "4.1.0.Beta8"
     val scalaCrossBuildVersion = List("2.11.7")
     val scalaVersion = scalaCrossBuildVersion.head
-    val vaadinVersion = "7.6.0.beta2"
+    val vaadinVersion = "7.5.10"
     val servletVersion = "3.1.0"
   }
 
